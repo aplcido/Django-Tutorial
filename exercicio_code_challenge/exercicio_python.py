@@ -13,7 +13,7 @@ def twoSum(nums: List[int], target: int) -> List[int]:
                     
 
 def main():
-    nums = [2,7,11,15] 
+    nums = [2, 7, 11 ,15] 
     target = 9
     result=twoSum(nums,target)
     print(result)
